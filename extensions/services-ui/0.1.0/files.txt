@@ -1,0 +1,11 @@
+plugin/img/gear.f142545c.svg
+plugin/img/gpu-card.587d9839.svg
+plugin/package.json
+plugin/services-ui-0.1.0.umd.min.1.js
+plugin/services-ui-0.1.0.umd.min.1.js.map
+plugin/services-ui-0.1.0.umd.min.2.js
+plugin/services-ui-0.1.0.umd.min.2.js.map
+plugin/services-ui-0.1.0.umd.min.3.js
+plugin/services-ui-0.1.0.umd.min.3.js.map
+plugin/services-ui-0.1.0.umd.min.js
+plugin/services-ui-0.1.0.umd.min.js.map
