@@ -1,0 +1,12 @@
+services:
+  card-title: Services
+  list:
+    hide-broken-links: Hide broken links
+    show-broken-links: Show broken links
+    label: Services
+    na: "Not available"
+    genericHttp: "HTTP Service"
+    genericHttps: "HTTPS Service"
+  description: Services Dashboard
+  failedToLoad: Could not load services dashboard
+  reload: Reload services dashboard
