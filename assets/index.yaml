@@ -12,7 +12,7 @@ entries:
       catalog.cattle.io/ui-component: plugins
     apiVersion: v2
     appVersion: 0.1.0
-    created: "2023-09-20T18:48:28.752548865+02:00"
+    created: "2023-10-20T16:16:09.847743883+02:00"
     description: services-ui plugin
     digest: b3ea18c7fc8a33c89411930a11f3a365dcd31355e1e7667fa60e3b42c1d103f2
     name: services-ui
@@ -20,4 +20,4 @@ entries:
     urls:
     - services-ui/services-ui-0.1.0.tgz
     version: 0.1.0
-generated: "2023-09-20T18:48:28.752251629+02:00"
+generated: "2023-10-20T16:16:09.847312564+02:00"
